@@ -7,7 +7,7 @@ class Operation
     {
         ArrayList<Integer> list = new ArrayList<>();
         list.add(7);
-        list.add(4);
+        list.add(8);
         list.add(23);
         list.add(5);  
         
