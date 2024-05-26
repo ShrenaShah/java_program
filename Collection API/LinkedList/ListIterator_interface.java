@@ -1,3 +1,10 @@
+/*
+Iterator is used for unidirectional traversal of a collection and allows element removal
+during iteration.
+ListIterator is used for bidirectional traversal of a list and supports element modification 
+during iteration.
+*/
+
 import java.util.*;
 
 class ListIterator
