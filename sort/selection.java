@@ -27,5 +27,6 @@ public class selection {
             arrayElements[j] = temp;
         }
         System.out.println("sorted array: " + Arrays.toString(arrayElements));
+        sc.close();
     }
 }

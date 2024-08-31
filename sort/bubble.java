@@ -25,5 +25,6 @@ class Bubble {
             }
         }
         System.out.println("sorted array: " + Arrays.toString(arrayElements));
+        sc.close();
     }
 }
